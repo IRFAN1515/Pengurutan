@@ -1,5 +1,3 @@
-Berikut adalah contoh dokumentasi kode program yang dapat Anda masukkan ke dalam wiki:
-
 # Program Pengurutan dengan Bubble Sort
 
 ## Deskripsi
