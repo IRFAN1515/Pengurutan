@@ -1,3 +1,6 @@
+# Documentation
+https://github.com/IRFAN1515/Pengurutan.wiki.git
+
 # Program Pengurutan dengan Bubble Sort
 
 ## Deskripsi
